@@ -7,7 +7,7 @@
 </div>
 
 ## 💻 About Me
-- 🎯 **Current Focus:** Maintaining and expanding **Pyneat** (a code cleaner and refactoring tool) — currently achieving 235+ successful tests for v2.0.0 and migrating the core engine to Rust (Pyneat-rs).
+- 🎯 **Current Focus:** Maintaining and expanding **Pyneat** (a code cleaner and refactoring tool) — currently achieving 235+ successful tests for v3.0.0 and migrating the core engine to Rust (Pyneat-rs).
 - 📚 **Exploring:** Quantitative Finance & Algorithmic Trading (WorldQuant Brain Alpha signals).
 - 💼 **Work:** Data Evaluator & Programmer training Generative AI models.
 - 🎓 **Education:** Auditing at National Economics University (NEU), Hanoi.
